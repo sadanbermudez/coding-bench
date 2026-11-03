@@ -1,0 +1,11 @@
+qwen      01-elo-draw            PASS 3/3     117 s
+qwen      02-pgn-headers         PASS 2/2     712 s
+qwen      03-privacy-scan        PASS 5/5     483 s
+qwen      04-run-pace            PASS 3/3     246 s
+qwen      05-ttl-lru             PASS 5/5     389 s
+qwen      06-twr-return          PASS 5/5     195 s
+qwen      07-sm2-drills          PASS 5/5     229 s
+qwen      08-olympus-csv         PASS 3/3     326 s
+qwen      09-config-refactor     PASS 3/3     125 s
+qwen      10-async-retry         PASS 4/4      70 s
+qwen      11-crash-on-start      PASS 2/2      90 s

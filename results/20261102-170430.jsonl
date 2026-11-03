@@ -1,0 +1,2 @@
+{"agent": "deepseek", "task": "21-chess-perft", "power": "AC", "seconds": 420.3, "exit": 0, "timed_out": false, "turns": 18, "in_tokens": 386872, "out_tokens": 14584, "pass": true, "tests_passed": 5, "tests_total": 5, "grade_tail": ""}
+{"agent": "deepseek", "task": "22-regex-engine", "power": "AC", "seconds": 1500.1, "exit": null, "timed_out": true, "turns": 5, "in_tokens": 78963, "out_tokens": 10442, "pass": true, "tests_passed": 4, "tests_total": 4, "grade_tail": ""}

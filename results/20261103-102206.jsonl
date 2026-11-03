@@ -1,0 +1,1 @@
+{"agent": "deepseek", "task": "23-mini-sql", "power": "AC", "seconds": 366.6, "exit": 0, "timed_out": false, "turns": 22, "in_tokens": 785660, "out_tokens": 39172, "pass": true, "tests_passed": 2, "tests_total": 2, "grade_tail": ""}

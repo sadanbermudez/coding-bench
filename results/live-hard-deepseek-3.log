@@ -1,0 +1,16 @@
+deepseek  23-mini-sql            PASS 2/2     367 s
+
+# coding-bench run 20261103-102206
+
+| Agent | Tasks passed | Hidden tests passed | Median time | Total time |
+|---|---|---|---|---|
+| OpenCode + DeepSeek V4.1 Flash (free, Zen) | 1/1 | 2/2 | 367 s | 6.1 min |
+
+OpenCode + DeepSeek V4.1 Flash (free, Zen): power during run: AC
+
+## Per task
+
+| Task | OpenCode + DeepSeek V4.1 Flash (free, Zen) |
+|---|---|
+| 23-mini-sql | PASS 2/2 (367 s) |
+

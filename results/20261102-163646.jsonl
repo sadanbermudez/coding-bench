@@ -1,0 +1,3 @@
+{"agent": "deepseek", "task": "01-elo-draw", "seconds": 22.6, "exit": 0, "timed_out": false, "turns": 4, "in_tokens": 49052, "out_tokens": 457, "pass": true, "tests_passed": 3, "tests_total": 3, "grade_tail": ""}
+{"agent": "qwen", "task": "01-elo-draw", "seconds": 164.3, "exit": 0, "timed_out": false, "turns": 6, "in_tokens": 74900, "out_tokens": 1019, "pass": true, "tests_passed": 3, "tests_total": 3, "grade_tail": ""}
+{"agent": "claude", "task": "01-elo-draw", "seconds": 38.8, "exit": 0, "timed_out": false, "turns": 4, "cost_usd": 0.3162728, "out_tokens": 1171, "in_tokens": 102816, "pass": true, "tests_passed": 3, "tests_total": 3, "grade_tail": ""}

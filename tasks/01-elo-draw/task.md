@@ -1,0 +1,1 @@
+After a draw between a 2300 and a 2100 player, the 2300 player's rating goes UP and the 2100 player's goes DOWN. It should be the other way round. Fix `chessrate/elo.py` so `expected_score` and `update` follow the standard Elo formulas (expected = 1 / (1 + 10^((opp - me)/400)), new = old + K*(score - expected)). Ratings are returned rounded to 1 decimal.

@@ -1,0 +1,20 @@
+claude    21-chess-perft         PASS 5/5     100 s
+claude    22-regex-engine        PASS 4/4     316 s
+claude    23-mini-sql            PASS 2/2     137 s
+
+# coding-bench run 20261102-170436
+
+| Agent | Tasks passed | Hidden tests passed | Median time | Total time |
+|---|---|---|---|---|
+| Claude Code + Opus 5.5 | 3/3 | 11/11 | 137 s | 9.2 min |
+
+Claude Code + Opus 5.5: power during run: AC
+
+## Per task
+
+| Task | Claude Code + Opus 5.5 |
+|---|---|
+| 21-chess-perft | PASS 5/5 (100 s) |
+| 22-regex-engine | PASS 4/4 (316 s) |
+| 23-mini-sql | PASS 2/2 (137 s) |
+
